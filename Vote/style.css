@@ -1,0 +1,42 @@
+#add_vote {
+    padding: 0px;
+    margin: 0px;
+    vertical-align : middle;
+    height: 19px;
+    width: 19px;
+
+
+}
+
+#rem_vote {
+    padding: 0px;
+    margin: 0px;
+    vertical-align : middle;
+    height: 19px;
+    width: 19px;
+
+
+}
+dt {
+    float: left;
+}
+
+.othe_vote {
+    
+    background: #31b660;
+     height: 10px;
+}
+.main_vote {
+   
+    background: #0074bb;
+     height: 10px;
+}
+
+dd {
+    width: 400px;
+}
+
+/*dl {
+     width:100%;
+        overflow:hidden;
+}*/
